@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitCommit</string>
+
+    <string name="hello">О, привет! :)</string>
+    <string name="action_sort">Sort by date</string>
+    <string name="sort_asc">Sort ascending</string>
+    <string name="sort_desc">Sort descending</string>
+    <string name="title_activity_commits_list">Commits</string>
+    <string name="search">Search</string>
+    <string name="owner">Owner</string>
+    <string name="repo">Repo</string>
+
+</resources>
